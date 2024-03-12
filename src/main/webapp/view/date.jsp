@@ -5,7 +5,6 @@
 </head>
 <body>
 
-    <div>${date}</div>
 
 </body>
 </html>
